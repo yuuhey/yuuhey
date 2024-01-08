@@ -11,8 +11,6 @@ ETRI(Electronics and Telecommunications Research Institute) student researcher
 
 - Research Interests:
 Computer Vision
-<br/>
-
 
 - 📫 email: qtly_u@naver.com
 - 🌱 velog: https://velog.io/@qtly_u/posts
