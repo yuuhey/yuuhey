@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Chung-ang University Computer Engineering M.S. student
+ETRI(Electronics and Telecommunications Research Institute) student researcher
 
 - Research Interests:
 Computer Vision
