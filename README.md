@@ -2,6 +2,7 @@
 
 <br/>
 
+
 Chung-ang University Computer Engineering M.S. student
 
 ETRI(Electronics and Telecommunications Research Institute) student researcher
@@ -9,7 +10,7 @@ ETRI(Electronics and Telecommunications Research Institute) student researcher
 <br/>
 
 
-- Research Interests:
+- 👀 Research Interests:
 Computer Vision
 
 - 📫 email: qtly_u@naver.com
