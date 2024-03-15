@@ -23,7 +23,16 @@ Computer Vision
   <img src="https://img.shields.io/badge/Email-Click%20to%20Email-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Click to Email">
 </a>
 
+<br/>
 
-<a href="[velog](https://velog.io/@qtly_u/posts)" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Github&logoColor=white"></a>
+<a href="https://velog.io/@qtly_u/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
+</a>
+
+<br/>
+
+
+<br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf1bc,10:c48467,30:c07077,75:271a14,100:8aa3ce&height=40&section=footer&text=&fontSize=0" width="100%"/>
