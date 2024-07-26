@@ -16,17 +16,15 @@ ETRI(Electronics and Telecommunications Research Institute) student researcher
 Computer Vision
 - 📧 Mail: qtly_u@naver.com
 
-<br/>
 
-
-<a href="mailto:qtly_u@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Click%20to%20Email-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Click to Email">
+<a href="https://velog.io/@qtly_u/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
 </a>
 
 <br/>
 
-<a href="https://velog.io/@qtly_u/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
+<a href="mailto:qtly_u@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Click%20to%20Email-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Click to Email">
 </a>
 
 <br/>
